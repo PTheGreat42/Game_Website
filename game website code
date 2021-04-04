@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<title>Welcome to a website of games!</title>
+<br>
+<body>
+<p>Here, we have plenty of games</p>
+<br>
+<p>The Ninja 5:</p>
+<br>
+<iframe src="https://scratch.mit.edu/projects/211625762/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<p>April Fools be like (the actual name):</p>
+<br>
+<iframe src="https://scratch.mit.edu/projects/510218714/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</body>
+</html>
